@@ -6,3 +6,5 @@ google-play-scraper
 jupyter
 scikit-learn
 requests
+seaborn
+matplotlib
